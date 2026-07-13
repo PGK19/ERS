@@ -48,9 +48,6 @@ python manage.py runserver
 
 Open: `http://127.0.0.1:8000/`
 
----
-Built as part of my internship to learn Django backend development and REST API design.
-
 ## Key Concepts Practiced
 
 - Django Models & ORM
@@ -58,3 +55,6 @@ Built as part of my internship to learn Django backend development and REST API 
 - REST API Development
 - Django Admin
 - CRUD Operations
+
+---
+Built as part of my internship to learn Django backend development and REST API design.
